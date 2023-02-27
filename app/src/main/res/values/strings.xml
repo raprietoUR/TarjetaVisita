@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tarjetaVisita</string>
+    <string name="nombreCompleto">Raúl Prieto</string>
+    <string name="descripcion">Android Developer Extraordinarie</string>
+    <string name="telefono">+11 (123) 444 555 666</string>
+    <string name="social">\\@AndroidDev</string>
+    <string name="email">and.dev\\@andoid.com</string>
+</resources>
